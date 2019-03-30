@@ -1,16 +1,1 @@
-Warning:: Loading a non-english file into another non-english session
-Data integrity is not guaranteed
-Warning:: Loading a non-english file into another non-english session
-Data integrity is not guaranteed
-Warning:: Loading a non-english file into another non-english session
-Data integrity is not guaranteed
-
- Last    Found  - D8-9C-67-DD-B1-A3,B8-85-84-FE-55-F8,2804:14d:4c82:1b81:9c0a:1f15:9ebf:8191 
- Current Found  - D8-9C-67-DD-B1-A3,B8-85-84-FE-55-F8,2804:14d:4c82:1b81:5c9f:7b42:57c5:dd48 
- Last    Found  - D8-9C-67-DD-B1-A3,B8-85-84-FE-55-F8,2804:14d:4c82:1b81:9c0a:1f15:9ebf:8191 
- Current Found  - D8-9C-67-DD-B1-A3,B8-85-84-FE-55-F8,2804:14d:4c82:1b81:5c9f:7b42:57c5:dd48 Warning:: A non-english file is saved under a non-english session
-Data integrity is not guaranteed
-Warning:: Loading a non-english file into another non-english session
-Data integrity is not guaranteed
-Warning:: Loading a non-english file into another non-english session
-Data integrity is not guaranteed
+gdi32_comm_shutdown wait for polling thread timed out.
